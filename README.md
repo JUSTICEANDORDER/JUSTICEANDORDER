@@ -1,19 +1,21 @@
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/4de02d17-a1be-44ff-9eca-8fa2408ba057" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <img width="730" height="450" alt="image" src="https://github.com/user-attachments/assets/5f61f092-468f-40f7-b6ad-eff27058775d" />
 
 
 ME N MY FRIENDS HEH
-<!--
-**JUSTICEANDORDER/JUSTICEANDORDER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

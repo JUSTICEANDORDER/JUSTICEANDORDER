@@ -1,10 +1,9 @@
-HEY GUYS!!! 
-
+HEY GUYS!!!
+<img width="736" height="528" alt="image" src="https://github.com/user-attachments/assets/5f61f092-468f-40f7-b6ad-eff27058775d" />
 <!--
 **JUSTICEANDORDER/JUSTICEANDORDER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img width="736" height="528" alt="image" src="https://github.com/user-attachments/assets/5ea647df-d476-4e76-a766-54b4982e263b" />
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

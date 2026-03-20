@@ -1,5 +1,5 @@
-HEY GUYS!!!
-<img width="736" height="528" alt="image" src="https://github.com/user-attachments/assets/5f61f092-468f-40f7-b6ad-eff27058775d" />
+
+<img width="630" height="400" alt="image" src="https://github.com/user-attachments/assets/5f61f092-468f-40f7-b6ad-eff27058775d" />
 <!--
 **JUSTICEANDORDER/JUSTICEANDORDER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
